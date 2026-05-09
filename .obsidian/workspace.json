@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "335ef75aca6babe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "683bf2745d36f3f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d36d16f07eebeddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Longest Palindromic Substring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - Longest Palindromic Substring"
+            }
+          },
+          {
+            "id": "b9e7d653a5c4364b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3660 - Jump Game IX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3660 - Jump Game IX"
+            }
+          },
+          {
+            "id": "bac41e9843df9c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/區間 DP vs 劃分 DP 筆記.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "區間 DP vs 劃分 DP 筆記"
+            }
+          },
+          {
+            "id": "7af0b690178262f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87b37262e268ac90",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a58c0af1e463ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bdc867eb152a33e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8854d5d875445687",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "550645352b1a416f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35bacc52de229315",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a0ac60f21a8a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e74da8314aecfb54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fb813ff4716b048e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3a60b9d346a14c41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e9bd053ac7e7df3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3a65bd2a0f1a7268",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bac41e9843df9c95",
+  "lastOpenFiles": [
+    "Templates/LeetCode Template.md",
+    "Problems/3890 - Integers With Multiple Sum of Two Cubes.md",
+    "Problems/3891 - Minimum Increase to Maximize Special Indices.md",
+    "Notes/區間 DP vs 劃分 DP 筆記.md",
+    "Problems/3915 - Maximum Sum of Alternating Subsequence With Distance at Least K.md",
+    "Notes",
+    "Problems/50 - Pow(x, n).md",
+    "Problems/5 - Longest Palindromic Substring.md",
+    "Problems",
+    "Problems/3914 - Minimum Operations to Make Array Non Decreasing.md",
+    "Problems/3629 - Minimum Jumps to Reach End via Prime Teleportation.md",
+    "Problems/3715 - Sum of Perfect Square Ancestors.md",
+    "Problems/3906 - Count Good Integers on a Grid Path.md",
+    "Problems/3905 - Multi Source Flood Fill.md",
+    "Problems/3904 - Smallest Stable Index II.md",
+    "Problems/3903 - Smallest Stable Index I.md",
+    "Problems/3912 - Valid Elements in an Array.md",
+    "Problems/3901 - Good Subsequence Queries.md",
+    "Problems/19 - Remove Nth Node From End of List.md",
+    "Problems/15 - 3Sum.md",
+    "Problems/10 - Regular Expression Matching.md",
+    "Problems/30 - Substring with Concatenation of All Words.md",
+    "Problems/42 - Trapping Rain Water.md",
+    "Problems/22 - Generate Parentheses.md",
+    "Problems/34 - Find First and Last Position of Element in Sorted Array.md",
+    "Problems/23 - Merge k Sorted Lists.md",
+    "Problems/3660 - Jump Game IX.md",
+    "Problems/3913 - Sort Vowels by Frequency.md",
+    "Templates",
+    "Untitled.base",
+    "Untitled 1.base"
+  ]
+}

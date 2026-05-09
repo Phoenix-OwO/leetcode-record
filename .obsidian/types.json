@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Rating": "number",
+    "Need Review": "checkbox",
+    "First": "datetime",
+    "Watch Solution": "checkbox",
+    "date": "date"
+  }
+}

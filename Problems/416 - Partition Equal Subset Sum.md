@@ -1,0 +1,22 @@
+---
+tags:
+  - array
+  - dp
+Difficulty Level: Medium
+Rating: 
+Need Review: true
+Origin: LC 416
+First: April 30, 2025 3:28 PM
+Watch Solution: false
+---
+
+# 416. Partition Equal Subset Sum
+
+[Link](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+
+**Topics**: Array, DP
+
+## Notes
+
+我用@cache作法 有找到更酷的東西
+
