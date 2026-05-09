@@ -167,6 +167,7 @@ for i in range(n):
 
 - [ ] [[312 - Burst Balloons]]
 - [ ] [[1547 - Minimum Cost to Cut a Stick]]
+- [ ] [[664 - Strange Printer]]
 
 劃分 DP 入門：
 - [ ] [[410 - Split Array Largest Sum]]
