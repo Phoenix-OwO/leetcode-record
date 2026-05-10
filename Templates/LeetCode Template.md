@@ -8,3 +8,8 @@ First: 2026-05-10
 Watch Solution: false
 ---
 [link]()
+
+```python
+
+```
+
