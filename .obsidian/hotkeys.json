@@ -7,5 +7,14 @@
       ],
       "key": "L"
     }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

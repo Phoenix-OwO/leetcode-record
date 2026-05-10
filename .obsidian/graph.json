@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5405920
       }
+    },
+    {
+      "query": "tag:#Contest  ",
+      "color": {
+        "a": 1,
+        "rgb": 5422560
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25484002440284453,
+  "scale": 0.25312368459966295,
   "close": false
 }
