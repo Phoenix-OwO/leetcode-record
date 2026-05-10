@@ -5,7 +5,7 @@
     "tags": "tags",
     "Rating": "number",
     "Need Review": "checkbox",
-    "First": "datetime",
+    "First": "date",
     "Watch Solution": "checkbox",
     "date": "date"
   }
