@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bac41e9843df9c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/區間 DP vs 劃分 DP 筆記.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "區間 DP vs 劃分 DP 筆記"
-            }
-          },
-          {
-            "id": "a2ef3ccace6012e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/3629 - Minimum Jumps to Reach End via Prime Teleportation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3629 - Minimum Jumps to Reach End via Prime Teleportation"
-            }
-          },
-          {
-            "id": "642b35d1cf1b2898",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/LeetCode Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LeetCode Template"
-            }
-          },
-          {
             "id": "25f5eacf01264640",
             "type": "leaf",
             "state": {
@@ -61,6 +19,48 @@
               },
               "icon": "lucide-file",
               "title": "2770 - Maximum Number of Jumps to Reach the Last Index"
+            }
+          },
+          {
+            "id": "87e8d1fed8a0fc58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "850 - Rectangle Area II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "850 - Rectangle Area II"
+            }
+          },
+          {
+            "id": "5f40ad0eaf030bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/sweep line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sweep line"
+            }
+          },
+          {
+            "id": "969d41e9b6da8fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/LeetCode Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LeetCode Template"
             }
           }
         ],
@@ -224,37 +224,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bdc867eb152a33e",
+  "active": "969d41e9b6da8fbc",
   "lastOpenFiles": [
+    "218 - The Skyline Problem.md",
+    "391 - Perfect Rectangle.md",
+    "732 - My Calendar III.md",
+    "850 - Rectangle Area II.md",
+    "3911 - K-th Smallest Remaining Even Integer in Subarray Queries.md",
     "README.md",
+    "Problems/3915 - Maximum Sum of Alternating Subsequence With Distance at Least K.md",
+    "Problems/3914 - Minimum Operations to Make Array Non Decreasing.md",
+    "Problems/3913 - Sort Vowels by Frequency.md",
+    "Problems/3912 - Valid Elements in an Array.md",
     "Todo.md",
-    "Templates/LeetCode Template.md",
     "Problems/2770 - Maximum Number of Jumps to Reach the Last Index.md",
+    "Notes/sweep line.md",
     "().md",
-    "Notes/區間 DP vs 劃分 DP 筆記.md",
+    "Templates/LeetCode Template.md",
+    "Notes/interval DP vs partition DP.md",
+    "Problems/1547 - Minimum Cost to Cut a Stick.md",
+    "Problems/312 - Burst Balloons.md",
     "Untitled",
     "Problems/1914 - Cyclically Rotating a Grid.md",
     "circle.md",
     "Problems/3629 - Minimum Jumps to Reach End via Prime Teleportation.md",
-    "Problems/3911 - K-th Smallest Remaining Even Integer in Subarray Queries.md",
-    "Problems/312 - Burst Balloons.md",
     "Problems/1539 - Kth Missing Positive Number.md",
     "Problems/13 - Roman to Integer.md",
     "Problems/3890 - Integers With Multiple Sum of Two Cubes.md",
     "Problems/3891 - Minimum Increase to Maximize Special Indices.md",
-    "Problems/3915 - Maximum Sum of Alternating Subsequence With Distance at Least K.md",
     "Notes",
     "Problems/50 - Pow(x, n).md",
-    "Problems/5 - Longest Palindromic Substring.md",
     "Problems",
-    "Problems/3914 - Minimum Operations to Make Array Non Decreasing.md",
-    "Problems/3715 - Sum of Perfect Square Ancestors.md",
-    "Problems/3906 - Count Good Integers on a Grid Path.md",
-    "Problems/3905 - Multi Source Flood Fill.md",
-    "Problems/3904 - Smallest Stable Index II.md",
-    "Problems/3903 - Smallest Stable Index I.md",
-    "Problems/3912 - Valid Elements in an Array.md",
-    "Problems/3901 - Good Subsequence Queries.md",
     "Templates",
     "Untitled.base",
     "Untitled 1.base"
