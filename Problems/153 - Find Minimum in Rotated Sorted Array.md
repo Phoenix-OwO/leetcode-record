@@ -18,5 +18,24 @@ Watch Solution: false
 
 ## Notes
 
-快樂Binary Search 我覺得趨近於easy
+快樂Binary Search 
+但是有靈神的簡潔寫法：
+[這](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/solutions/1987499/by-endlesscheng-owgd/)
 
+關鍵：和最後一個數比大小
+兩邊都是開區間
+
+```python
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        minN = inf
+        l, r = -1, len(nums)
+
+        while l + 1 < r:
+            mid = (l + r) // 2
+            if nums[mid] <= nums[-1]:
+                r = mid
+            else:
+                l = mid
+        return nums[r]
+```
