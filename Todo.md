@@ -3,8 +3,10 @@ tags:
   - notes
 ---
 
-就是簡單用一個地方 放我的待辦事項們 好耶
+### 就是簡單用一個地方 放我的待辦事項們 好耶
 
+[[Weekly 500]]
+- [ ] [[3920 - Maximize Fixed Points After Deletions]] P4 
 
 [[interval DP vs partition DP]]
 - [x] 區間DP練習 05/10
