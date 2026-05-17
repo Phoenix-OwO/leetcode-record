@@ -5,6 +5,10 @@ tags:
 
 ### 就是簡單用一個地方 放我的待辦事項們 好耶
 
+
+
+- [ ] [[1674 - Minimum Moves to Make Array Complementary]]
+
 [[Weekly 500]]
 - [ ] [[3920 - Maximize Fixed Points After Deletions]] P4 
 

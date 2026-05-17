@@ -9,6 +9,7 @@ Watch Solution: false
 ---
 [link](https://leetcode.com/problems/minimum-cost-to-move-between-indices/description/)
 
+
 ```python
 class Solution:
     def minCost(self, nums: list[int], queries: list[list[int]]) -> list[int]:

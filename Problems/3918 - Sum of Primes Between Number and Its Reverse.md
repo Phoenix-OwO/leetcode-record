@@ -1,5 +1,7 @@
 ---
 tags:
+  - math
+  - counting
 Difficulty Level: Medium
 Rating: 1301
 Need Review: false
@@ -8,6 +10,8 @@ First: 2026-05-17
 Watch Solution: false
 ---
 [link](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/description/)
+預處理質數，用binary search 找出起點，甚至直接看過整個array 都可以
+
 
 ```python
 prime = [True]*1001

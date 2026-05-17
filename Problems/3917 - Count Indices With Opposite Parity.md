@@ -1,5 +1,7 @@
 ---
 tags:
+  - array
+  - enumeration
 Difficulty Level: Easy
 Rating: 1198
 Need Review: false
@@ -8,6 +10,7 @@ First: 2026-05-17
 Watch Solution: false
 ---
 [link](https://leetcode.com/problems/count-indices-with-opposite-parity/description/)
+就是看右邊有幾個，每個元素先出窗再開始算
 
 ```python
 class Solution:
