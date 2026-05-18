@@ -5,7 +5,8 @@ tags:
 
 ### 就是簡單用一個地方 放我的待辦事項們 好耶
 
-
+Top interview 150系列 
+- [ ] [[189 - Rotate Array]] （0518 逃學不寫）
 
 - [ ] [[1674 - Minimum Moves to Make Array Complementary]]
 
@@ -21,6 +22,7 @@ tags:
 
 [[sweep line]]
 - [ ] 掃描線相關的題目
+
 
 
 Binary Search  閉區間 or 左閉右開練習
