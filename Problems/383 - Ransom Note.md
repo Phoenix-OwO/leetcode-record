@@ -15,9 +15,20 @@ Watch Solution: false
 
 [Link](https://leetcode.com/problems/ransom-note/?envType=study-plan-v2&envId=top-interview-150)
 
-**Topics**: Counting, Hash Table, String
+```python
+class Solution:
+    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        cntRan = Counter(ransomNote)
+        cntMag = Counter(magazine)
 
+        for k, v in cntRan.items():
+            if cntMag[k] < v :
+                return False
+        
+        return True
+```
 ## Notes
 
 兩個dict 最後檢查 或一個dict  ransom的用減的
 
+0522更新：直接用counter 存兩個

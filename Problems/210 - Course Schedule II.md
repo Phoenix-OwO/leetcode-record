@@ -19,4 +19,4 @@ Watch Solution: false
 ## Notes
 
 歡樂topological sort 可能算基本題
-
+就是前一題再加一個array 去存他就好
