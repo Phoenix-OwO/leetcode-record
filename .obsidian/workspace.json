@@ -51,6 +51,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Problems/11 - Container With Most Water.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 - Container With Most Water"
+            }
+          },
+          {
+            "id": "958a802b00afc448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "LeetCode_Top_Interview_150_Checklist.md",
                 "mode": "source",
                 "source": false
@@ -60,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,37 +234,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d77d7a01b7c3332d",
+  "active": "958a802b00afc448",
   "lastOpenFiles": [
+    "Problems/17 - Letter Combinations of a Phone Number.md",
+    "Problems/433 - Minimum Genetic Mutation.md",
+    "Problems/200 - Number of Islands.md",
+    "226 - Invert Binary Tree.md",
+    "112 - Path Sum.md",
+    "LeetCode_Top_Interview_150_Checklist.md",
+    "Problems/11 - Container With Most Water.md",
+    "218 - The Skyline Problem.md",
+    "Problems/1871 - Jump Game VII.md",
+    "Problems/167 - Two Sum II - Input Array Is Sorted.md",
+    "392 - Is Subsequence.md",
+    "Problems/125 - Valid Palindrome.md",
+    "Problems/55 - Jump Game.md",
+    "Templates/LeetCode Template.md",
     "Problems/9 - Palindrome Number.md",
     "Untitled.md",
     "Problems/289 - Game of Life.md",
     "Problems/150 - Evaluate Reverse Polish Notation.md",
     "Problems/199 - Binary Tree Right Side View.md",
-    "LeetCode_Top_Interview_150_Checklist.md",
     "Problems/210 - Course Schedule II.md",
     "Problems/207 - Course Schedule.md",
     "Problems/198 - House Robber.md",
     "Todo.md",
     "Problems/70 - Climbing Stairs.md",
-    "Templates/LeetCode Template.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
     "Problems/20 - Valid Parentheses.md",
     "Problems/205 - Isomorphic Strings.md",
-    "Problems/383 - Ransom Note.md",
-    "README.md",
-    "Contests/Weekly 501.md",
-    "Problems/3928 - Minimum Cost to Buy Apples II.md",
-    "Contests/Weekly 500.md",
-    "Problems/274 - H-Index.md",
-    "Problems/26 - Remove Duplicates from Sorted Array.md",
-    "Problems/1345 - Jump Game IV.md",
-    "3920 - Maximize Fixed Points After Deletions.md",
-    "3919 - Minimum Cost to Move Between Indices.md",
-    "1674 - Minimum Moves to Make Array Complementary.md",
-    "45 - Jump Game II.md",
     "Contests",
     "Notes",
     "Problems",

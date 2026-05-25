@@ -20,3 +20,27 @@ Watch Solution: false
 
 因為bank 很小 所以可以從end 推回去
 
+```python
+class Solution:
+    def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
+        q = deque([(0, startGene)])
+        seen = set(startGene)
+        bank = set(bank)
+
+        def diff(g1, g2):
+            cnt = 0
+            for i in range(8):
+                if g1[i] != g2[i]:
+                    cnt += 1
+            return cnt
+
+        while q:
+            d, gene = q.popleft()
+            if gene == endGene:
+                return d
+            for g2 in bank:
+                if g2 not in seen and diff(gene, g2) == 1:
+                    q.append((d + 1, g2))
+                    seen.add(g2)
+        return -1
+```

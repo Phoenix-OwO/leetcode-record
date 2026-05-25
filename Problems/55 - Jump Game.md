@@ -39,4 +39,5 @@ Jump Game 有一整系列ㄛ : )
 [[45 - Jump Game II]]
 [[1306 - Jump Game III]]
 [[1345 - Jump Game IV]]
+[[1871 - Jump Game VII]]
 [[3660 - Jump Game IX]]

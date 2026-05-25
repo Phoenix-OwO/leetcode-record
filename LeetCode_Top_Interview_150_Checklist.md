@@ -40,10 +40,10 @@
 
 ## Two Pointers (5 題)
 
-- [ ] 125. Valid Palindrome (Easy)
-- [ ] 392. Is Subsequence (Easy)
-- [ ] 167. Two Sum II - Input Array Is Sorted (Medium)
-- [ ] 11. Container With Most Water (Medium)
+- [x] 125. Valid Palindrome (Easy)
+- [x] 392. Is Subsequence (Easy)
+- [x] 167. Two Sum II - Input Array Is Sorted (Medium)
+- [x] 11. Container With Most Water (Medium)
 - [ ] 15. 3Sum (Medium)
 
 ## Sliding Window (4 題)
@@ -106,13 +106,13 @@
 
 - [x] 104. Maximum Depth of Binary Tree (Easy)
 - [ ] 100. Same Tree (Easy)
-- [ ] 226. Invert Binary Tree (Easy)
+- [x] 226. Invert Binary Tree (Easy)
 - [ ] 101. Symmetric Tree (Easy)
 - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
 - [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal (Medium)
 - [ ] 117. Populating Next Right Pointers in Each Node II (Medium)
 - [ ] 114. Flatten Binary Tree to Linked List (Medium)
-- [ ] 112. Path Sum (Easy)
+- [x] 112. Path Sum (Easy)
 - [ ] 129. Sum Root to Leaf Numbers (Medium)
 
 ## Binary Tree BFS (4 題)
@@ -130,7 +130,7 @@
 
 ## Graph General (7 題)
 
-- [ ] 200. Number of Islands (Medium)
+- [x] 200. Number of Islands (Medium)
 - [ ] 133. Clone Graph (Medium)
 - [ ] 399. Evaluate Division (Medium)
 - [x] 207. Course Schedule (Medium)
@@ -149,7 +149,7 @@
 
 ## Backtracking (10 題)
 
-- [ ] 17. Letter Combinations of a Phone Number (Medium)
+- [x] 17. Letter Combinations of a Phone Number (Medium)
 - [ ] 77. Combinations (Medium)
 - [ ] 46. Permutations (Medium)
 - [ ] 39. Combination Sum (Medium)
