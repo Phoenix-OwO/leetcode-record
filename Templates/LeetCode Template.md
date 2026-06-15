@@ -4,7 +4,7 @@ Difficulty Level:
 Rating:
 Need Review: false
 Origin:
-First: 2026-05-25
+First: 2026-06-15
 Watch Solution: false
 ---
 [link]()

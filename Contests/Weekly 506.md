@@ -1,7 +1,7 @@
 ---
 tags:
   - Contest
-date:
+date: 2026-06-15
 Finish !: false
 ---
 P1

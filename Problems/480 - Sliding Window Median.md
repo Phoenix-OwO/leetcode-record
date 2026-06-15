@@ -2,10 +2,10 @@
 tags:
   - array
   - hashTable
-  - heap(priorityQueue)
   - slidingWindow
+  - priorityQueue
 Difficulty Level: Hard
-Rating: 
+Rating:
 Need Review: true
 Origin: LC 480
 First: June 16, 2025 7:15 PM
@@ -20,5 +20,8 @@ Watch Solution: false
 
 ## Notes
 
-用sorted list 作弊
+用sorted list 作弊 = =
+06/16/26 更新：出來混欠的總是要還的
+
+
 

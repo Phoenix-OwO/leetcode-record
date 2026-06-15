@@ -16,12 +16,15 @@ Top interview 150系列
 [[interval DP vs partition DP]]
 - [x] 區間DP練習 05/10
 - [ ] 劃分DP練習
-
-
 - [ ] 背包問題 複習
 
+平衡樹
+- [ ] [看這邊](https://leetcode.cn/problems/sequentially-ordinal-rank-tracker/solutions/1152448/qiao-miao-li-yong-cha-xun-de-te-shu-xing-7eyg/)
+
+
+
 [[sweep line]]
-- [ ] 掃描線相關的題目
+- [x] 掃描線相關的題目 [[2026-06-15]]
 
 
 
