@@ -20,3 +20,33 @@ Watch Solution: true
 
 正難則反 想好最後一步就可以一路往前推了
 
+
+```python
+class Solution:
+    def processStr(self, s: str, k: int) -> str:
+        n = len(s)
+        res = [0] * n
+        curr = 0
+        
+        for i, c in enumerate(s):
+            if c == '*' and curr > 0:
+                curr -= 1
+            elif c == '#':
+                curr *= 2
+            elif c != '%' and c != '*':
+                curr += 1
+            res[i] = curr
+        
+        if k >= res[-1]:
+            return '.'
+        
+        for i in range(n - 1, -1, -1):
+            if s[i] == '#':
+                m = res[i]//2
+                if k >= m:
+                    k -= m
+            elif s[i] == '%':
+                k = res[i] - k - 1
+            elif s[i] != '*' and k == res[i] - 1:
+                return s[i]
+```
