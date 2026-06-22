@@ -55,7 +55,7 @@
 
 ## Matrix (6 題)
 
-- [ ] 36. Valid Sudoku (Medium)
+- [x] 36. Valid Sudoku (Medium)
 - [ ] 54. Spiral Matrix (Medium)
 - [ ] 48. Rotate Image (Medium)
 - [ ] 73. Set Matrix Zeroes (Medium)
@@ -90,16 +90,16 @@
 
 ## Linked List (11 題)
 
-- [ ] 141. Linked List Cycle (Easy)
-- [ ] 2. Add Two Numbers (Medium)
-- [ ] 21. Merge Two Sorted Lists (Easy)
+- [x] 141. Linked List Cycle (Easy)
+- [x] 2. Add Two Numbers (Medium)
+- [x] 21. Merge Two Sorted Lists (Easy)
 - [ ] 138. Copy List with Random Pointer (Medium)
-- [ ] 92. Reverse Linked List II (Medium)
+- [x] 92. Reverse Linked List II (Medium)
 - [ ] 25. Reverse Nodes in k-Group (Hard)
 - [ ] 19. Remove Nth Node From End of List (Medium)
 - [ ] 82. Remove Duplicates from Sorted List II (Medium)
-- [ ] 61. Rotate List (Medium)
-- [ ] 86. Partition List (Medium)
+- [x] 61. Rotate List (Medium)
+- [x] 86. Partition List (Medium)
 - [ ] 146. LRU Cache (Medium)
 
 ## Binary Tree General (10 題)
@@ -166,7 +166,7 @@
 
 ## Kadane's Algorithm (2 題)
 
-- [ ] 53. Maximum Subarray (Medium)
+- [x] 53. Maximum Subarray (Medium)
 - [ ] 918. Maximum Sum Circular Subarray (Medium)
 
 ## Binary Search (6 題)
@@ -221,30 +221,8 @@
 - [ ] 188. Best Time to Buy and Sell Stock IV (Hard)
 - [ ] 221. Maximal Square (Medium)
 
----
 
-## 學習建議
 
-### 難度分配
-- **Easy**：約 45 題（30%）- 建議先完成，打好基礎
-- **Medium**：約 85 題（57%）- 核心題目，重點攻克
-- **Hard**：約 20 題（13%）- 進階挑戰
-
-### 學習順序建議
-1. **第一階段（1-2週）**：Array/String, Two Pointers, Hashmap - 打好基礎
-2. **第二階段（2-3週）**：Linked List, Stack, Binary Tree - 資料結構
-3. **第三階段（2-3週）**：Binary Search, Sliding Window, DP - 演算法技巧
-4. **第四階段（2-3週）**：Graph, Backtracking, Advanced Topics - 進階主題
-5. **第五階段（1-2週）**：複習 + Hard 題 - 衝刺階段
-
-### 刷題技巧
-- ✅ 每題至少做一次，不會的題目看解答後隔天再做一次
-- ✅ 記錄解題思路和易錯點
-- ✅ 同類型題目一起刷，找出共同模式
-- ✅ 定期複習已完成的題目
-- ✅ 注意時間和空間複雜度
-
----
 
 **參考資料**：
 - [LeetCode Top Interview 150 官方](https://leetcode.com/studyplan/top-interview-150/)

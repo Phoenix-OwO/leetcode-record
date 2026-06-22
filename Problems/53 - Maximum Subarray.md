@@ -21,3 +21,19 @@ Watch Solution: false
 
 Kadane’s Algorithm 題 這個真的很常用到
 
+```python
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        ans = -inf
+        curr = 0
+        for num in nums:
+            curr += num
+            ans = max(curr, ans)
+            if curr < 0:
+                curr = 0
+        return ans
+
+```
+
+
+
