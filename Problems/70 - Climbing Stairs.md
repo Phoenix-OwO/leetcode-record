@@ -10,7 +10,8 @@ Origin: TopInterview150
 First: 2026-05-22
 Watch Solution: false
 ---
-[link]()
+[link](https://leetcode.com/problems/climbing-stairs/)
+從前一階或兩階
 
 ```python
 class Solution(object):
@@ -23,4 +24,3 @@ class Solution(object):
         return f1
 ```
 
-從前一階或兩階

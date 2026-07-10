@@ -10,6 +10,7 @@ First: 2026-05-17
 Watch Solution: false
 ---
 [link](https://leetcode.com/problems/valid-parentheses/?envType=study-plan-v2&envId=top-interview-150)
+記得key 是放右邊的括弧，因為我們是看到右括弧才去找左括弧夥伴
 
 ```python
 class Solution:
@@ -30,4 +31,3 @@ class Solution:
         return len(st) == 0
 ```
 
-記得key 是放右邊的括弧，因為我們是看到右括弧才去找左括弧夥伴
