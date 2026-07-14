@@ -34,65 +34,9 @@
               "icon": "lucide-file",
               "title": "2653 - Sliding Subarray Beauty"
             }
-          },
-          {
-            "id": "9543c0d4c5562e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode Google 3 Months.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LeetCode Google 3 Months"
-            }
-          },
-          {
-            "id": "4ee5c5da444d52f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/70 - Climbing Stairs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "70 - Climbing Stairs"
-            }
-          },
-          {
-            "id": "c887f6925bf7f780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/15 - 3Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15 - 3Sum"
-            }
-          },
-          {
-            "id": "b1863bbd7de40634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/503 - Next Greater Element II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "503 - Next Greater Element II"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,34 +196,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9543c0d4c5562e2a",
+  "active": "0bdc867eb152a33e",
   "lastOpenFiles": [
-    "Problems/70 - Climbing Stairs.md",
-    "LeetCode Google 3 Months.md",
-    "Problems/15 - 3Sum.md",
-    "Problems/242 - Valid Anagram.md",
-    "Problems/20 - Valid Parentheses.md",
-    "560 - Subarray Sum Equals K.md",
-    "Problems/21 - Merge Two Sorted Lists.md",
-    "Problems/53 - Maximum Subarray.md",
-    "Problems/200 - Number of Islands.md",
-    "Problems/26 - Remove Duplicates from Sorted Array.md",
-    "Problems/347 - Top K Frequent Elements.md",
-    "[1929 - Concatenation of Array.md",
-    "1929 - Concatenation of Array.md",
-    "1 - Two Sum.md",
-    "Problems/503 - Next Greater Element II.md",
-    "Problems/875 - Koko Eating Bananas.md",
-    "Problems/55 - Jump Game.md",
-    "Problems/49 - Group Anagrams.md",
-    "Problems/88 - Merge Sorted Array.md",
-    "Problems/121 - Best Time to Buy and Sell Stock.md",
-    "LeetCode_Top_Interview_150_Checklist.md",
-    "Problems/2653 - Sliding Subarray Beauty.md",
+    "Contests/Weekly 506.md",
+    "3920 - Maximize Fixed Points After Deletions.md",
+    "1674 - Minimum Moves to Make Array Complementary.md",
     "850 - Rectangle Area II.md",
-    "Problems/56 - Merge Intervals.md",
+    "Problems/560 - Subarray Sum Equals K.md",
+    "Problems/1 - Two Sum.md",
+    "Todo.md",
     "README.md",
+    "LeetCode Top Interview 150.md",
+    "LeetCode Google 3 Months.md",
+    "Contests/Weekly 510.md",
+    "Problems/3989 - Maximum Consistent Columns in a Grid.md",
+    "Problems/3988 - Create Grid With Exactly K Paths I.md",
+    "Problems/3987 - Minimum Total Cost to Process All Elements.md",
+    "Problems/3986 - Number of Elapsed Seconds Between Two Times.md",
+    "Templates/Contest Template.md",
+    "Contests/Weekly 501.md",
     "Templates/LeetCode Template.md",
+    "Contests/Weekly 500.md",
+    "Problems/15 - 3Sum.md",
+    "Problems/70 - Climbing Stairs.md",
+    "3962 - Maximum Subarray Sum After at Most K Swaps.md",
+    "Problems/347 - Top K Frequent Elements.md",
+    "218 - The Skyline Problem.md",
+    "Notes/interval DP vs partition DP.md",
+    "[1929 - Concatenation of Array.md",
     "Code_Template",
     "Daily",
     "Untitled 2.base",
