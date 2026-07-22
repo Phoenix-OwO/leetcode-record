@@ -2,7 +2,7 @@
 tags:
   - Contest
 date: 2026-07-19
-Finish !: true
+Finish !: false
 ---
 P1
 [[3996 - Even Number of Knight Moves]]

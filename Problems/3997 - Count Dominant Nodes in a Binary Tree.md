@@ -11,6 +11,7 @@ First: 2026-07-19
 Watch Solution: false
 ---
 [link](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/)
+就是dfs，從下往上傳每個node 以降的最大值，如果今天這個值等於node.val，我們就回傳他。
 
 ```python
 # Definition for a binary tree node.

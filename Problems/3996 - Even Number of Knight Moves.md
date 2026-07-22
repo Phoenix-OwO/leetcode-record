@@ -10,6 +10,8 @@ First: 2026-07-19
 Watch Solution: false
 ---
 [link](https://leetcode.com/problems/even-number-of-knight-moves/description/)
+就是bfs而已，沒了，基於題目知道每個點如果是奇數踩到的話就不會是偶數踩到，目前還沒想到為什麼？
+我猜可能是座標的差距，但沒有證明
 
 ```python
 class Solution:
