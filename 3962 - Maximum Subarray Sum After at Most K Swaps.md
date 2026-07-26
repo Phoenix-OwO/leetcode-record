@@ -1,6 +1,6 @@
 ---
 tags:
-Difficulty Level:
+Difficulty Level: Hard
 Rating:
 Need Review: false
 Origin:

@@ -3,7 +3,7 @@ tags:
   - string
   - enumeration
   - greedy
-Difficulty Level:
+Difficulty Level: Medium
 Rating:
 Need Review: false
 Origin: Weekly 511
