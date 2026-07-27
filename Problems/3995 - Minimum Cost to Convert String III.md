@@ -8,7 +8,7 @@ First: 2026-07-18
 Watch Solution: false
 ---
 [link](https://leetcode.com/problems/minimum-cost-to-convert-string-iii/description/)
-dp題，
+dp題，算是典型吧我覺得。
 
 ```python
 class Solution:

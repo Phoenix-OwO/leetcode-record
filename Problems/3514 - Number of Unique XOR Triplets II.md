@@ -21,3 +21,18 @@ Watch Solution: true
 
 time O(n^2) 同時維護pair 跟trip（三個數字） 剪枝：當長度= max(nums)的位數最大的時候剪掉
 
+```python
+
+class Solution:
+    def uniqueXorTriplets(self, nums: list[int]) -> int:
+        pairs, trips = set([0]), set(nums)
+        digits = 2** max(nums).bit_length()
+
+        while nums:
+            num = nums.pop()
+            trips |= set([p^num for p in pairs])
+            pairs|= set([x^num for x in nums])
+            if len(trips) == digits: break
+ 
+        return len(trips)
+```
