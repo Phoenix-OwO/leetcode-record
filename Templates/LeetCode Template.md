@@ -3,8 +3,8 @@ tags:
 Difficulty Level:
 Rating:
 Need Review: false
-Origin: Biweekly 187
-First: 2026-07-18
+Origin: Weekly 513
+First: 2026-08-02
 Watch Solution: false
 ---
 [link]()
