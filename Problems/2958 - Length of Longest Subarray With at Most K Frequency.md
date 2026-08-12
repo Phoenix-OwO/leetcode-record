@@ -17,3 +17,18 @@ Watch Solution: false
 
 **Topics**: Array, Hash Table, Sliding Window
 
+```python
+class Solution:
+    def maxSubarrayLength(self, nums: List[int], k: int) -> int:
+        cnt = defaultdict(int)
+        l = 0
+        ans = 0
+        for i, num in enumerate(nums):
+            cnt[num] += 1
+            while cnt[num] > k:
+                cnt[nums[l]] -= 1
+                l += 1
+            if cnt[num] <= k:
+                ans = max(ans, i - l + 1)
+        return ans
+```

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/1510 - Stone Game IV.md",
+                "file": "3920 - Maximize Fixed Points After Deletions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1510 - Stone Game IV"
+              "title": "3920 - Maximize Fixed Points After Deletions"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/3987 - Minimum Total Cost to Process All Elements.md",
+                "file": "Problems/2958 - Length of Longest Subarray With at Most K Frequency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3987 - Minimum Total Cost to Process All Elements"
+              "title": "2958 - Length of Longest Subarray With at Most K Frequency"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2958",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,12 +213,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bdc867eb152a33e",
+  "active": "0b8443d1831c1db4",
   "lastOpenFiles": [
-    "Problems/1510 - Stone Game IV.md",
+    "Problems/3987 - Minimum Total Cost to Process All Elements.md",
+    "().md",
+    "3920 - Maximize Fixed Points After Deletions.md",
+    "3962 - Maximum Subarray Sum After at Most K Swaps.md",
     "3348 - Smallest Divisible Digit Product II.md",
-    "3345 - Smallest Divisible Digit Product I.md",
+    "3336 - Find the Number of Subsequences With Equal GCD.md",
+    "Problems/3345 - Smallest Divisible Digit Product I.md",
+    "1674 - Minimum Moves to Make Array Complementary.md",
+    "850 - Rectangle Area II.md",
     "1406 - Stone Game III.md",
+    "Problems/862 - Shortest Subarray with Sum at Least K.md",
+    "Problems/1510 - Stone Game IV.md",
     "Problems/3731 - Find Missing Elements.md",
     "Problems/3310 - Remove Methods From Project.md",
     "Contests/Weekly 501.md",
@@ -230,16 +239,8 @@
     "Problems/4010 - Maximize Pair Strength Using GCD.md",
     "Contests/Weekly 510.md",
     "Contests/Weekly 511.md",
-    "3920 - Maximize Fixed Points After Deletions.md",
-    "3962 - Maximum Subarray Sum After at Most K Swaps.md",
     "3999 - Minimum Number of String Groups Through Transformations.md",
     "Problems/974 - Subarray Sums Divisible by K.md",
-    "Problems/3987 - Minimum Total Cost to Process All Elements.md",
-    "Problems/3638 - Maximum Balanced Shipments.md",
-    "Problems/2589 - Minimum Time to Complete All Tasks.md",
-    "Problems/2136 - Earliest Possible Day of Full Bloom.md",
-    "Problems/3689 - Maximum Total Subarray Value I.md",
-    "Problems/3273 - Minimum Amount of Damage Dealt to Bob.md",
     "Code_Template",
     "Daily",
     "Untitled 2.base",
