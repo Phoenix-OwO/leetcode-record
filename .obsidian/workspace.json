@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/2958 - Length of Longest Subarray With at Most K Frequency.md",
+                "file": "1406 - Stone Game III.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2958 - Length of Longest Subarray With at Most K Frequency"
+              "title": "1406 - Stone Game III"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2958",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +105,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,6 +214,7 @@
   },
   "active": "0b8443d1831c1db4",
   "lastOpenFiles": [
+    "Problems/2958 - Length of Longest Subarray With at Most K Frequency.md",
     "Problems/3987 - Minimum Total Cost to Process All Elements.md",
     "().md",
     "3920 - Maximize Fixed Points After Deletions.md",
@@ -240,7 +240,6 @@
     "Contests/Weekly 510.md",
     "Contests/Weekly 511.md",
     "3999 - Minimum Number of String Groups Through Transformations.md",
-    "Problems/974 - Subarray Sums Divisible by K.md",
     "Code_Template",
     "Daily",
     "Untitled 2.base",
