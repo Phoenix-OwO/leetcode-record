@@ -9,6 +9,9 @@ Watch Solution: false
 ---
 [link](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i/description/)
 
+可以先加起來，就不用一直取餘數
+然後有一些細節的小處理，比如先計算好每個chr 的ord ，因為這樣可以省去一點後面的計算功夫。
+
 ```python
 class Solution:
     def minOperations(self, s: str) -> int:

@@ -15,6 +15,7 @@ Watch Solution: false
 比如2 位數，就有```2 * 9 * 10**1 ```這麼多個digit 
 （我一開始寫的時候，沒想到要乘以2 所以錯了QQ
 
+困難麻煩一點點版：[[4022 - K-th Digit in Infinite String]]
 
 
 ```python
