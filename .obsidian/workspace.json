@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/3720 - Lexicographically Smallest Permutation Greater Than Target.md",
+                "file": "Problems/2948 - Make Lexicographically Smallest Array by Swapping Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3720 - Lexicographically Smallest Permutation Greater Than Target"
+              "title": "2948 - Make Lexicographically Smallest Array by Swapping Elements"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3720",
+                "query": "2948",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,8 +215,8 @@
   },
   "active": "d0d75a59332c3665",
   "lastOpenFiles": [
-    "Problems/3734 - Lexicographically Smallest Palindromic Permutation Greater Than Target.md",
     "Problems/3720 - Lexicographically Smallest Permutation Greater Than Target.md",
+    "Problems/3734 - Lexicographically Smallest Palindromic Permutation Greater Than Target.md",
     "3999 - Minimum Number of String Groups Through Transformations.md",
     "3920 - Maximize Fixed Points After Deletions.md",
     "Problems/4022 - K-th Digit in Infinite String.md",
