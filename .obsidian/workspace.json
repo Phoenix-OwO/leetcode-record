@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "3920 - Maximize Fixed Points After Deletions"
             }
-          },
-          {
-            "id": "d0d75a59332c3665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/2948 - Make Lexicographically Smallest Array by Swapping Elements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2948 - Make Lexicographically Smallest Array by Swapping Elements"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2948",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,12 +197,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0d75a59332c3665",
+  "active": "b6a63e4224bc483f",
   "lastOpenFiles": [
-    "Problems/3720 - Lexicographically Smallest Permutation Greater Than Target.md",
-    "Problems/3734 - Lexicographically Smallest Palindromic Permutation Greater Than Target.md",
-    "3999 - Minimum Number of String Groups Through Transformations.md",
+    "3348 - Smallest Divisible Digit Product II.md",
     "3920 - Maximize Fixed Points After Deletions.md",
+    "3962 - Maximum Subarray Sum After at Most K Swaps.md",
+    "850 - Rectangle Area II.md",
+    "1674 - Minimum Moves to Make Array Complementary.md",
+    "Problems/2091 - Removing Minimum and Maximum From Array.md",
+    "3999 - Minimum Number of String Groups Through Transformations.md",
+    "Problems/3734 - Lexicographically Smallest Palindromic Permutation Greater Than Target.md",
+    "Problems/2948 - Make Lexicographically Smallest Array by Swapping Elements.md",
+    "Problems/3720 - Lexicographically Smallest Permutation Greater Than Target.md",
     "Problems/4022 - K-th Digit in Infinite String.md",
     "Problems/400 - Nth Digit.md",
     "Problems/4021 - Minimum Operations to Make a Rotated Palindrome I.md",
@@ -234,13 +224,7 @@
     "Contests/Weekly 501.md",
     "Contests/Weekly 500.md",
     "Contests/Weekly 506.md",
-    "3962 - Maximum Subarray Sum After at Most K Swaps.md",
-    "3348 - Smallest Divisible Digit Product II.md",
     "3336 - Find the Number of Subsequences With Equal GCD.md",
-    "1674 - Minimum Moves to Make Array Complementary.md",
-    "LeetCode Google 3 Months.md",
-    "LeetCode Top Interview 150.md",
-    "README.md",
     "Code_Template",
     "Daily",
     "Untitled 2.base",
