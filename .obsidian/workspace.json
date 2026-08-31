@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3999 - Minimum Number of String Groups Through Transformations.md",
+                "file": "2058 - Find the Minimum and Maximum Number of Nodes Between Critical Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3999 - Minimum Number of String Groups Through Transformations"
+              "title": "2058 - Find the Minimum and Maximum Number of Nodes Between Critical Points"
             }
           },
           {
@@ -199,13 +199,14 @@
   },
   "active": "b6a63e4224bc483f",
   "lastOpenFiles": [
+    "3999 - Minimum Number of String Groups Through Transformations.md",
+    "2058 - Find the Minimum and Maximum Number of Nodes Between Critical Points.md",
     "3348 - Smallest Divisible Digit Product II.md",
     "3920 - Maximize Fixed Points After Deletions.md",
     "3962 - Maximum Subarray Sum After at Most K Swaps.md",
     "850 - Rectangle Area II.md",
     "1674 - Minimum Moves to Make Array Complementary.md",
     "Problems/2091 - Removing Minimum and Maximum From Array.md",
-    "3999 - Minimum Number of String Groups Through Transformations.md",
     "Problems/3734 - Lexicographically Smallest Palindromic Permutation Greater Than Target.md",
     "Problems/2948 - Make Lexicographically Smallest Array by Swapping Elements.md",
     "Problems/3720 - Lexicographically Smallest Permutation Greater Than Target.md",
@@ -224,7 +225,6 @@
     "Contests/Weekly 501.md",
     "Contests/Weekly 500.md",
     "Contests/Weekly 506.md",
-    "3336 - Find the Number of Subsequences With Equal GCD.md",
     "Code_Template",
     "Daily",
     "Untitled 2.base",
