@@ -3,8 +3,8 @@ tags:
 Difficulty Level:
 Rating:
 Need Review: false
-Origin: Biweekly 189
-First: 2026-08-15
+Origin: Weekly 517
+First: 2026-08-30
 Watch Solution: false
 ---
 [link]()
