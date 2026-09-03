@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode Top Interview 150.md",
+                "file": "3876 - Construct Uniform Parity Array II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode Top Interview 150"
+              "title": "3876 - Construct Uniform Parity Array II"
             }
           }
         ],
@@ -228,6 +228,8 @@
   },
   "active": "43c970efa9137b35",
   "lastOpenFiles": [
+    "LeetCode Top Interview 150.md",
+    "3876 - Construct Uniform Parity Array II.md",
     "4037 - Maximum Valid Split Positions II.md",
     "Problems/4032 - Longest Subarray With at Most K Distinct Prime Factors.md",
     "Problems/4031 - Find All Numbers Disappeared in an Array II.md",
@@ -252,8 +254,6 @@
     "Contests/Biweekly 189.md",
     "Problems/3875 - Construct Uniform Parity Array I.md",
     "Templates/Contest Template.md",
-    "Problems/4041 - Minimum Operations to Form Subset Sum II.md",
-    "Problems/4040 - Minimum Operations to Form Subset Sum I.md",
     "Code_Template",
     "Daily",
     "Untitled 2.base",
