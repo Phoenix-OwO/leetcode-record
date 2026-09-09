@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3920 - Maximize Fixed Points After Deletions.md",
+                "file": "Weekly 518.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3920 - Maximize Fixed Points After Deletions"
-            }
-          },
-          {
-            "id": "fb1f055fd0e6d4d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/4036 - Lexicographically Largest String After Pair Transformations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4036 - Lexicographically Largest String After Pair Transformations"
+              "title": "Weekly 518"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "115",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,34 +198,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb1f055fd0e6d4d7",
+  "active": "f8e3998f7e552311",
   "lastOpenFiles": [
+    "Contests/Weekly 517.md",
+    "Weekly 518.md",
+    "Contests/Weekly 516.md",
+    "4043 - Count Rotations With Exactly K Equal Adjacent Pairs.md",
+    "4044 - Count Good Cyclic Rotations.md",
+    "2026-08-23.md",
+    "4033 - Valid K-Unique Subarrays I.md",
+    "4023 - Elevator Requests II.md",
+    "Problems/4037 - Maximum Valid Split Positions II.md",
+    "Code_Template/LCA (Binary Lifting).md",
+    "3871 - Count Commas in Range II.md",
+    "3870 - Count Commas in Range.md",
+    "Problems/940 - Distinct Subsequences II.md",
+    "3920 - Maximize Fixed Points After Deletions.md",
+    "Problems/4036 - Lexicographically Largest String After Pair Transformations.md",
     "Problems/115 - Distinct Subsequences.md",
     "218 - The Skyline Problem.md",
     "850 - Rectangle Area II.md",
-    "3920 - Maximize Fixed Points After Deletions.md",
-    "4033 - Valid K-Unique Subarrays I.md",
     "LeetCode Top Interview 150.md",
     "README.md",
     "LeetCode Google 3 Months.md",
-    "4037 - Maximum Valid Split Positions II.md",
-    "4035 - Maximum Valid Split Positions I.md",
-    "4023 - Elevator Requests II.md",
+    "Problems/4035 - Maximum Valid Split Positions I.md",
     "3999 - Minimum Number of String Groups Through Transformations.md",
     "3876 - Construct Uniform Parity Array II.md",
     "Problems/4032 - Longest Subarray With at Most K Distinct Prime Factors.md",
     "Problems/4031 - Find All Numbers Disappeared in an Array II.md",
-    "Problems/4030 - Check ASCII Palindromic.md",
-    "3348 - Smallest Divisible Digit Product II.md",
-    "Contests/Weekly 516.md",
-    "3336 - Find the Number of Subsequences With Equal GCD.md",
-    "3962 - Maximum Subarray Sum After at Most K Swaps.md",
-    "Templates/LeetCode Template.md",
-    "Contests/Weekly 517.md",
-    "Problems/4034 - Minimum Bishop Moves to Reach Target.md",
-    "Problems/4036 - Lexicographically Largest String After Pair Transformations.md",
-    "Contests/Biweekly 190.md",
-    "Contests/Weekly 513.md",
     "Code_Template",
     "Daily",
     "Untitled 2.base",
