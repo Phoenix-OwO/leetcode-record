@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly 518.md",
+                "file": "Problems/4044 - Count Good Cyclic Rotations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly 518"
+              "title": "4044 - Count Good Cyclic Rotations"
             }
           }
         ],
@@ -198,15 +198,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8e3998f7e552311",
+  "active": "0bdc867eb152a33e",
   "lastOpenFiles": [
-    "Contests/Weekly 517.md",
-    "Weekly 518.md",
-    "Contests/Weekly 516.md",
-    "4043 - Count Rotations With Exactly K Equal Adjacent Pairs.md",
-    "4044 - Count Good Cyclic Rotations.md",
-    "2026-08-23.md",
+    "Problems/4043 - Count Rotations With Exactly K Equal Adjacent Pairs.md",
+    "Problems/4044 - Count Good Cyclic Rotations.md",
     "4033 - Valid K-Unique Subarrays I.md",
+    "Problems/2265 - Count Nodes Equal to Average of Subtree.md",
+    "README.md",
+    "Contests/Weekly 518.md",
+    "Contests/Weekly 517.md",
+    "Contests/Weekly 516.md",
+    "2026-08-23.md",
     "4023 - Elevator Requests II.md",
     "Problems/4037 - Maximum Valid Split Positions II.md",
     "Code_Template/LCA (Binary Lifting).md",
@@ -219,13 +221,11 @@
     "218 - The Skyline Problem.md",
     "850 - Rectangle Area II.md",
     "LeetCode Top Interview 150.md",
-    "README.md",
     "LeetCode Google 3 Months.md",
     "Problems/4035 - Maximum Valid Split Positions I.md",
     "3999 - Minimum Number of String Groups Through Transformations.md",
     "3876 - Construct Uniform Parity Array II.md",
     "Problems/4032 - Longest Subarray With at Most K Distinct Prime Factors.md",
-    "Problems/4031 - Find All Numbers Disappeared in an Array II.md",
     "Code_Template",
     "Daily",
     "Untitled 2.base",

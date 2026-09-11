@@ -10,7 +10,7 @@ First: 2026-09-09
 Watch Solution: false
 ---
 [link](https://leetcode.com/problems/count-good-cyclic-rotations/description/)
-
+就是一般的環形的 sliding window 沒別的ㄌ
 ```python
 class Solution:
     def countGoodRotations(self, nums: list[int]) -> int:
