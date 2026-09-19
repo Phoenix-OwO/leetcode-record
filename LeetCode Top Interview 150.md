@@ -3,13 +3,7 @@
 > 官方連結：[LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
 ## 進度追蹤
-- **總題數**：150 題
-- **已完成**：0 / 150
-- **Easy**：0 / ~45
-- **Medium**：0 / ~85
-- **Hard**：0 / ~20
 
----
 
 ## Array / String (24 題)
 
