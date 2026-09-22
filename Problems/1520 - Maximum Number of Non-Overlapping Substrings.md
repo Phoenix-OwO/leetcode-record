@@ -11,10 +11,11 @@ First: 2026-09-18
 Watch Solution: false
 ---
 [link](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/?envType=daily-question&envId=2026-09-12) 思考題！
-一開始的想法是猜記錄每個字母出現的頭尾，然後就是non-overlap interval類型的題目，但發現這兩種case 在non overlapping interval 題型會是一樣的case ababa abbba ，但是這這題是不一樣的，Case1 選b 要選到兩端，但是case 2 選b 只要選中間三個。
+一開始的想法是猜記錄每個字母出現的頭尾，然後就是non-overlap interval類型的題目，但發現這兩種case 在non overlapping interval 題型會是一樣的case ababa abbba ，但是在這題是不一樣的，Case1 選b 要選到兩端，但是case 2 選b 只要選中間三個。
 新想法：我們需要去計算對於每一個字母，如果想要選他，我們應該要選到多長的區段，這塊是這題的精華，也就是greedy的所在，
-我們可以貪婪地往左右長這個區間（對於每個字母至多O(n) 的時間複雜度，所以最多就是O(26n))，想到這個之後就解決了
-之後就是sort interval、把它當成一般的non-overlapping intervals 問題處理即可
+我們可以貪婪地往左右長這個區間（對於每個字母至多O(n) 的時間複雜度，所以最多就是26n，所以是O(26n) 想到這個之後就解決了
+之後就是sort interval、把它當成一般的non-overlapping intervals 問題處理即可，因為經過處理之後其實不會有部分交疊的interval，只會有大的包小的，所以我們可以貪婪地選比較早結束的，因為我們知道在之後出現的要不就是包住他的大interval，要不就是跟他沒重疊的，所以可以貪心選。
+
 
 ```python
 class Solution:
