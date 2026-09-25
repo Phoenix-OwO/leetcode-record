@@ -124,9 +124,9 @@ cur 表示目前覆蓋次數。
 - Meeting Rooms II
 
 ### 幾何型
-- [[850 - Rectangle Area II]]
+- [[0850. Rectangle Area II]]
 - [[391 - Perfect Rectangle]]
-- [[218 - The Skyline Problem]]
+- [[0218. The Skyline Problem]]
 
 ---
 

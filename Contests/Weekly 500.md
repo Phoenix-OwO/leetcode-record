@@ -14,4 +14,4 @@ P3
 [[3919 - Minimum Cost to Move Between Indices]]
 
 P4
-[[3920 - Maximize Fixed Points After Deletions]]
+[[3920. Maximize Fixed Points After Deletions]]

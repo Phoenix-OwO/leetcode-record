@@ -14,4 +14,4 @@ P3
 [[3998 - Transform Binary String Using Subsequence Sort]]
 
 P4
-[[3999 - Minimum Number of String Groups Through Transformations]]
+[[3999. Minimum Number of String Groups Through Transformations]]

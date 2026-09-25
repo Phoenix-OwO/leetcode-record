@@ -8,10 +8,10 @@ tags:
 Top interview 150系列 
 - [ ] [[189 - Rotate Array]] （0518 逃學不寫）
 
-- [ ] [[1674 - Minimum Moves to Make Array Complementary]]
+- [ ] [[1674. Minimum Moves to Make Array Complementary]]
 
 [[Weekly 500]]
-- [ ] [[3920 - Maximize Fixed Points After Deletions]] P4 
+- [ ] [[3920. Maximize Fixed Points After Deletions]] P4 
 
 [[interval DP vs partition DP]]
 - [x] 區間DP練習 05/10

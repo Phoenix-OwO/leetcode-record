@@ -14,4 +14,4 @@ P3 預處理質數 sliding window
 [[4032 - Longest Subarray With at Most K Distinct Prime Factors]]
 
 P4
-[[4033 - Valid K-Unique Subarrays I]]
+[[4033. Valid K-Unique Subarrays I]]

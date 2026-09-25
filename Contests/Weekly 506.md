@@ -14,5 +14,5 @@ P3
 [[3961 - Maximize Sum of Device Ratings]]
 
 P4 (待補)
-[[3962 - Maximum Subarray Sum After at Most K Swaps]]
+[[3962. Maximum Subarray Sum After at Most K Swaps]]
 
