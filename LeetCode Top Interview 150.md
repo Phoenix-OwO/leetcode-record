@@ -99,7 +99,7 @@
 ## Binary Tree General (10 題)
 
 - [x] 104. Maximum Depth of Binary Tree (Easy)
-- [ ] 100. Same Tree (Easy)
+- [x] 100. Same Tree (Easy)
 - [x] 226. Invert Binary Tree (Easy)
 - [ ] 101. Symmetric Tree (Easy)
 - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)

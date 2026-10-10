@@ -3,8 +3,8 @@ tags:
 Difficulty Level:
 Rating:
 Need Review: false
-Origin: Weekly 516
-First: 2026-08-23
+Origin:
+First: 2026-10-10
 Watch Solution: false
 ---
 [link]()
