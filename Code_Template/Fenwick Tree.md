@@ -1,3 +1,7 @@
+---
+tags:
+  - Template
+---
 
 ```python
 class FenwickTree:

@@ -1,3 +1,8 @@
+---
+tags:
+  - Template
+---
+
 ```python
 class Node:
     __slots__ = 'son', 'end'

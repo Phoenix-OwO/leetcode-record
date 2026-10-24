@@ -1,3 +1,8 @@
+---
+tags:
+  - Template
+---
+
 ```python
 class UnionFind:
     def __init__(self, n):

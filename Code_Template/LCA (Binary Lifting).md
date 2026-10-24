@@ -1,3 +1,8 @@
+---
+tags:
+  - Template
+---
+
 （节点编号从 0 开始）
 
 ```python

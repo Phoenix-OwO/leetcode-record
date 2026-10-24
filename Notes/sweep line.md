@@ -120,12 +120,12 @@ cur 表示目前覆蓋次數。
 ## 六、經典題目
 
 ### 區間型
-- [[732 - My Calendar III]]
+- [[0732. My Calendar III]]
 - Meeting Rooms II
 
 ### 幾何型
 - [[0850. Rectangle Area II]]
-- [[391 - Perfect Rectangle]]
+- [[0391. Perfect Rectangle]]
 - [[0218. The Skyline Problem]]
 
 ---
